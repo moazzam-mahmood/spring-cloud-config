@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to DigiBank accounts related APIs in production environment "
+  contactDetails:
+    name: "John Doe - Product Manager"
+    email: "john@digibank.com"
+  onCallSupport:
+    - (555) 513-1523
+    - (555) 423-6867

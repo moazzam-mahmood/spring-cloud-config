@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to DigiBank accounts related APIs in prod environment "
+  message: "Welcome to DigiBank accounts related APIs in prod(updated) environment "
   contactDetails:
     name: "John Doe - Product Manager"
     email: "{cipher}d6513bbf5793b4bd77954de1bc198af5116f78e0a45396c5fef3f00c5a5a4bb64f0fc7d265cdd54a374e857c344ff358"

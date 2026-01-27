@@ -2,7 +2,7 @@
     version: "1.0"
 
   accounts:
-    message: "Welcome to DigiBank accounts related local APIs "
+    message: "Welcome to DigiBank accounts related local[container] APIs "
     contactDetails:
       name: "John Doe - Developer"
       email: "john@digibank.com"
